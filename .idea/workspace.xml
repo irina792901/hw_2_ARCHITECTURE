@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77b28e78-c11a-44fc-b2b4-b1f26adfe1dc" name="Changes" comment="add iterator" />
+    <list default="true" id="77b28e78-c11a-44fc-b2b4-b1f26adfe1dc" name="Changes" comment="add strategy">
+      <change afterPath="$PROJECT_DIR$/src/vizitor/Visitor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +13,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690731545603</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add strategy">
+      <created>1690731856793</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690731856793</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add chain" />
     <MESSAGE value="add iterator" />
-    <option name="LAST_COMMIT_MESSAGE" value="add iterator" />
+    <MESSAGE value="add strategy" />
+    <option name="LAST_COMMIT_MESSAGE" value="add strategy" />
   </component>
 </project>
