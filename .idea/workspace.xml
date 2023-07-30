@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77b28e78-c11a-44fc-b2b4-b1f26adfe1dc" name="Changes" comment="add chain">
-      <change afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ConcreteCommandOnOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ConcreteCommandSpeedChanger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Conveyor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/MultiPult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/MyIterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,9 +69,21 @@
       <map>
         <entry key="MAIN">
           <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+            </State>
+          </value>
+        </entry>
+        <entry key="ff47bf27-0bc0-4082-86b5-84b27fd2e344">
+          <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="ff47bf27-0bc0-4082-86b5-84b27fd2e344" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
